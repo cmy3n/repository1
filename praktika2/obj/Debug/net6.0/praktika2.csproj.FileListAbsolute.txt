@@ -1,0 +1,14 @@
+D:\C#\praktika2\praktika2\bin\Debug\net6.0\praktika2.exe
+D:\C#\praktika2\praktika2\bin\Debug\net6.0\praktika2.deps.json
+D:\C#\praktika2\praktika2\bin\Debug\net6.0\praktika2.runtimeconfig.json
+D:\C#\praktika2\praktika2\bin\Debug\net6.0\praktika2.dll
+D:\C#\praktika2\praktika2\bin\Debug\net6.0\praktika2.pdb
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.AssemblyInfoInputs.cache
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.AssemblyInfo.cs
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.csproj.CoreCompileInputs.cache
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.dll
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\refint\praktika2.dll
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.pdb
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\praktika2.genruntimeconfig.cache
+D:\C#\praktika2\praktika2\obj\Debug\net6.0\ref\praktika2.dll
